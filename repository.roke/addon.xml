@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.roke" name="My Test Roke" version="0.0.1" provider-name="Microsolution">
+	<extension point="xbmc.addon.repository" name="My Test Roke">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/erickoge/repository.roke/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/erickoge/repository.roke/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/erickoge/repository.roke/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Play Media and audio</summary>
+		<description lang="en">Play Media and Audio</description>
+		<genre>movies</genre>
+	</extension>
+</addon>
